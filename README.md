@@ -6,3 +6,8 @@ After you type javascript: paste in the code
 EXAMPLE
 
 javascript:(Code here)
+
+
+NOTE:
+-Scripts will be updated
+-More scripts are coming
