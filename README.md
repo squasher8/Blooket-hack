@@ -6,7 +6,7 @@ After you type javascript: paste in the code
 EXAMPLE: 
 javascript:(Code here)
 
-NOTE:
+NOTE:                                                                                                                                                  
 -Scripts will be updated                                                                                                                                                  
 -More scripts are coming                                                                                                                                                  
 -If a script is not working it probably means its patched so please report it to me so I can fix it                                                                                                                                                  
